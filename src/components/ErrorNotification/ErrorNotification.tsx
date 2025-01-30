@@ -26,7 +26,6 @@ export const ErrorNotification: React.FC<Props> = ({
         type="button"
         className="delete"
       />
-      {/* show only one message at a time +++*/}
       {errorMessage}
     </div>
   );
