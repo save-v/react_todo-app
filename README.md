@@ -1,6 +1,6 @@
 [Demo](https://save-v.github.io/react_todo-app/)
 
-This React Todo App allows users to efficiently manage tasks by adding, deleting, toggling completion, renaming todos, and marking all tasks as complete/incomplete. The app interacts with an API for real-time updates, ensuring smooth and responsive task management. It also includes error handling and loaders for a seamless user experience.
+A task management application built with React, providing features to add, delete, toggle, and rename tasks. It allows toggling the completed status of all tasks, as well as editing task titles on double click. API integration is used for all CRUD operations, and loader overlays are shown while waiting for responses. Error notifications are displayed in case of any API issues. The app also includes functionality to save and cancel changes in the task title and deletion of tasks.
 
 Clone the repository:
 
