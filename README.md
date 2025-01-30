@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+This React Todo App allows users to efficiently manage tasks by adding, deleting, toggling completion, renaming todos, and marking all tasks as complete/incomplete. The app interacts with an API for real-time updates, ensuring smooth and responsive task management. It also includes error handling and loaders for a seamless user experience.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[Demo](https://save-v.github.io/react_todo-app/)
